@@ -1,48 +1,18 @@
-WARNING!
-========
+###################
+What is CodeIgniter
+###################
 
-<h3>Please be informed that this library has been obsoleted and marked as End-of-Life product. 
+CodeIgniter is an Application Development Framework - a toolkit - for people
+who build web sites using PHP. Its goal is to enable you to develop projects
+much faster than you could if you were writing code from scratch, by providing
+a rich set of libraries for commonly needed tasks, as well as a simple
+interface and logical structure to access these libraries. CodeIgniter lets
+you creatively focus on your project by minimizing the amount of code needed
+for a given task.
 
-Kindly refer the latest In-page checkout integration.</h3>
+*******************
+Screenshot
+*******************
 
-[In-page Checkout](https://github.com/MOLPay/Inpage_Checkout)
-
-
-------------------------------------------------------
-
-
-MOLPay in-page payment library
-===============================
-
-MOLPay in-page lightbox payment is an inovative way to ensure much better checkout experience for customer to make payment.  
-This library is required for merchant to implement in-page payment without too much hassle.
-
-We provide 2 integration approaches. PHP and JavaScript.
-
-Requirement
------------
-- PHP version 5.3 above (for PHP approach only)
-- Self-developed or opensource shopping cart (for both PHP & JS approaches)
-
-
-Docs
--------------
-[Javascript library](https://github.com/MOLPay/In-Page_Payment/blob/master/INSTALLATION2.md)  
-[PHP library](https://github.com/MOLPay/In-Page_Payment/blob/master/INSTALLATION.md)
-
-
-Example
---------------
-You can refer to example code
-
-
-Support
--------
-Merchant Technical Support / Customer Care : support@molpay.com <br>
-Sales/Reseller Enquiry : sales@molpay.com <br>
-Marketing Campaign : marketing@molpay.com <br>
-Channel/Partner Enquiry : channel@molpay.com <br>
-Media Contact : media@molpay.com <br>
-R&D and Tech-related Suggestion : technical@molpay.com <br>
-Abuse Reporting : abuse@molpay.com
-
+![aa](https://cloud.githubusercontent.com/assets/12325386/26042558/14e482d0-3969-11e7-9390-2ee64e06d1b8.JPG)
+<br>
