@@ -11,7 +11,7 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 
-<li>Originally created and manipulated by ahmad solehin</li>
+<li><b>Originally created and manipulated by ahmad solehin</b></li>
 <li>very simple code to use with</li>
 
 *******************
